@@ -1,14 +1,14 @@
 # 👋 Hi there
 
-I'm **Defann Rizki Utomo**, a passionate learner who's diving deep into the world of programming and game development. Saat ini aku **sedang belajar** berbagai teknologi, mulai dari scripting SA-MP dengan PAWN, hingga eksplorasi backend menggunakan C++, JavaScript, dan Node.js.
+I'm **Defann Rizki Utomo**, a curious learner exploring the world of programming and game development. Right now, I'm **learning** various technologies — starting from PAWN scripting for SA-MP, and moving into backend development with C++, JavaScript, and Node.js.
 
-Aku percaya kalau proses belajar nggak harus cepat, yang penting **konsisten dan terus berkembang** setiap hari. Setiap error itu pelajaran, dan setiap commit adalah langkah maju.
+I believe learning is a journey. It’s okay to make mistakes, as long as I keep moving forward and stay consistent.
 
-> "Setiap master dulunya juga pemula yang nggak nyerah belajar."
+> "Every expert was once a beginner who didn't quit."
 
 ---
 
-## 🧠 Tech Stack (Lagi Dipelajarin Nih 👨‍💻)
+## 🧠 Tech Stack (Currently Learning)
 
 ![PAWN](https://img.shields.io/badge/PAWN-ED7014?style=for-the-badge&logo=codeforces&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -26,14 +26,23 @@ Aku percaya kalau proses belajar nggak harus cepat, yang penting **konsisten dan
 
 ---
 
-## 🎯 Goals Saat Ini
-- Belajar dan eksperimen dengan PAWN untuk SA-MP
-- Pelajari dasar-dasar backend dengan Node.js dan C++
-- Bangun sistem game roleplay dan bot Discord kecil-kecilan
+## 🎯 Current Goals
+- Learn and experiment with PAWN for SA-MP scripting
+- Practice backend development using Node.js and C++
+- Build basic systems for game servers and simple Discord bots
 
 ---
 
-## 🌐 Yuk Kenalan
+## 🌍 My Server: Western Roleplay
 
-📫 Reach me via GitHub atau Discord  
-💬 Selalu terbuka buat diskusi, tanya jawab coding, atau kolaborasi belajar bareng!
+I'm currently developing and learning through my SA-MP server project, **Western Roleplay** — a server focused on immersive roleplay systems built using PAWN, C++, and Node.js.
+
+### 🔗 Official Discord Link  
+[Join Western Roleplay on Discord](https://discord.gg/dSFzCR2RU9)
+
+---
+
+## 🌐 Let's Connect
+
+📫 You can reach me through GitHub or Discord  
+💬 Always open for learning together, coding talks, or small collabs!
