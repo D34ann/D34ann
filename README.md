@@ -1,16 +1,14 @@
 # 👋 Hi there
 
-I'm a developer passionate about game scripting, backend systems, and full stack development. I started coding with PAWN for SA-MP, then expanded into web tech like JavaScript and backend tools like Node.js and C++.
+I'm **Defann Rizki Utomo**, a passionate learner who's diving deep into the world of programming and game development. Saat ini aku **sedang belajar** berbagai teknologi, mulai dari scripting SA-MP dengan PAWN, hingga eksplorasi backend menggunakan C++, JavaScript, dan Node.js.
 
-I enjoy building systems from scratch, whether it's a roleplay server mechanic or a real-time API. I believe in writing clean code, staying consistent, and learning every day.
+Aku percaya kalau proses belajar nggak harus cepat, yang penting **konsisten dan terus berkembang** setiap hari. Setiap error itu pelajaran, dan setiap commit adalah langkah maju.
 
-> "First you learn the code, then you bend it to your will."
+> "Setiap master dulunya juga pemula yang nggak nyerah belajar."
 
 ---
 
-## 🧠 Tech Stack
-
-These are the languages and tools I actively use in my projects:
+## 🧠 Tech Stack (Lagi Dipelajarin Nih 👨‍💻)
 
 ![PAWN](https://img.shields.io/badge/PAWN-ED7014?style=for-the-badge&logo=codeforces&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -28,15 +26,14 @@ These are the languages and tools I actively use in my projects:
 
 ---
 
-## 📈 Currently Working On
-- 🧩 Game Mode systems for SA-MP in PAWN & C++
-- 🛒 Custom shop, inventory, and faction systems
-- 💻 Web dashboard for admin panel using Node.js + Express
+## 🎯 Goals Saat Ini
+- Belajar dan eksperimen dengan PAWN untuk SA-MP
+- Pelajari dasar-dasar backend dengan Node.js dan C++
+- Bangun sistem game roleplay dan bot Discord kecil-kecilan
 
 ---
 
-## 🌍 Let's Connect
+## 🌐 Yuk Kenalan
 
-📫 Reach me via GitHub or Discord  
-💬 Always open for feedback, collabs, or coding questions!
-
+📫 Reach me via GitHub atau Discord  
+💬 Selalu terbuka buat diskusi, tanya jawab coding, atau kolaborasi belajar bareng!
