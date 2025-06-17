@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/b2/5c/ba/b25cba3ef93b1e669d7a6939be9274d3.jpg"width="200"/>
+  <img src="https://i.pinimg.com/736x/88/ed/e7/88ede705433832bcb77c8cb410213ee8.jpg"width="200"/>
 </p>
 
 <h1 align="center" style="color:#00BFFF;">Defann Rizki Utomo</h1>
