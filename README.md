@@ -5,8 +5,8 @@
 <h1 align="center" style="color:#00BFFF;">Defann Rizki Utomo</h1>
 
 <p align="center">
-  Backend developer & system builder focused on immersive gameplay experiences.<br>
-  Writing structured logic for dynamic environments.
+  Immersive system builder & SA-MP backend engineer.<br>
+  Passionate about crafting clean, immersive server experiences.
 </p>
 
 ---
@@ -22,19 +22,19 @@
 
 ---
 
-## 🧩 Focus Areas
+## 🎯 Focus & Philosophy
 
-- Modular system scripting  
-- Backend logic design  
-- Structured gameplay mechanics  
-- Immersive coding style
+- Build with intention — not just function  
+- Let systems support the story  
+- Prioritize flow, immersion, clarity  
+- Every feature should feel alive, not scripted
 
-> _"Code should feel like flow, not force."_
+> _"Code should serve immersion, not limit it."_
 
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/AZpQ4ve.png" width="420" alt="Visual"/>
+  <img src="https://i.imgur.com/ElQ6v1W.png" width="420" alt="Immersive Preview"/>
 </p>
 
 <p align="center">
