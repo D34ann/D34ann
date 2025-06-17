@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1368301871290384515/1380867175019053057/ChatGPT_Image_6_Jun_2025_14.31.07-removebg-preview.png" width="200" alt="Logo"/>
+  <img src="https://img.shields.io/badge/@Defann-newbies-blue"width="200"/>
 </p>
 
 <h1 align="center" style="color:#00BFFF;">Defann Rizki Utomo</h1>
