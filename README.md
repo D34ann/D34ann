@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f1b91e38-b411-4781-a8f6-d0b0be385772)<p align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/@Defann-newbies-blue"width="200"/>
 </p>
 
