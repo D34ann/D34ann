@@ -34,7 +34,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/ElQ6v1W.png" width="420" alt="Immersive Preview"/>
+  <img src="https://up.yimg.com/ib/th?id=OIP.djO9rDqgskOBllKVS8bRTAHaDG&pid=Api&rs=1&c=1&qlt=95&w=296&h=123" width="420" alt="Immersive Preview"/>
 </p>
 
 <p align="center">
