@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/736x/f1/e3/de/f1e3de367a42119aeeaefd42fd33fc91.jpg" width="200"/>
 </p>
 
-<h1 align="center" style="color:#00BFFF;">Defann Rizki Utomo</h1>
+<h1 align="center" style="color:#00BFFF;">Defan Rizki Utomo</h1>
 
 <p align="center">
   From “you can’t code” to “who built this system?”.<br>
