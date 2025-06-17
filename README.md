@@ -38,5 +38,5 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1368301871290384515/1380867175019053057/ChatGPT_Image_6_Jun_2025_14.31.07-removebg-preview.png" width="100" alt="Divider"/>
+  <img src="https://cdn.discordapp.com/attachments/1368301871290384515/1380867175019053057/ChatGPT_Image_6_Jun_2025_14.31.07-removebg-preview.png" width="100"/>
 </p>
