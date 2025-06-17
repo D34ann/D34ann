@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/user-attachments/assets/f1b91e38-b411-4781-a8f6-d0b0be385772)<p align="center">
   <img src="https://img.shields.io/badge/@Defann-newbies-blue"width="200"/>
 </p>
 
@@ -34,7 +34,7 @@
 ---
 
 <p align="center">
-  <img src="https://pin.it/tnsarQ6EV" width="420" alt="Immersive Preview"/>
+  <img src="https://i.pinimg.com/736x/9c/df/a8/9cdfa83ff0e1e5aeee0e566ab0c5a465.jpg" width="420" alt="Immersive Preview"/>
 </p>
 
 <p align="center">
