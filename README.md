@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/f1/e3/de/f1e3de367a42119aeeaefd42fd33fc91.jpg"width="200"/>
+  <img src="https://i.pinimg.com/736x/f1/e3/de/f1e3de367a42119aeeaefd42fd33fc91.jpg" width="200"/>
 </p>
 
 <h1 align="center" style="color:#00BFFF;">Defann Rizki Utomo</h1>
 
 <p align="center">
-  Immersive system builder & SA-MP backend engineer.<br>
-  Passionate about crafting clean, immersive server experiences.
+  From “you can’t code” to “who built this system?”.<br>
+  I don’t just write code — I build <b>immersive realities</b>.
 </p>
 
 ---
@@ -22,14 +22,7 @@
 
 ---
 
-## 🎯 Focus & Philosophy
-
-- Build with intention — not just function  
-- Let systems support the story  
-- Prioritize flow, immersion, clarity  
-- Every feature should feel alive, not scripted
-
-> _"Code should serve immersion, not limit it."_
+> _"They said I wouldn't last. Now they're asking how I did it."_
 
 ---
 
