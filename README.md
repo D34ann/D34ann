@@ -1,48 +1,56 @@
-# 👋 Hi there
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1368301871290384515/1380867175019053057/ChatGPT_Image_6_Jun_2025_14.31.07-removebg-preview.png" width="200" alt="Reynosa Roleplay Logo"/>
+</p>
 
-I'm **Defann Rizki Utomo**, a curious learner exploring the world of programming and game development. Right now, I'm **learning** various technologies — starting from PAWN scripting for SA-MP, and moving into backend development with C++, JavaScript, and Node.js.
+<h1 align="center" style="color:#00BFFF;">Defann Rizki Utomo</h1>
 
-I believe learning is a journey. It’s okay to make mistakes, as long as I keep moving forward and stay consistent.
-
-> "Every expert was once a beginner who didn't quit."
-
----
-
-## 🧠 Tech Stack (Currently Learning)
-
-![PAWN](https://img.shields.io/badge/PAWN-ED7014?style=for-the-badge&logo=codeforces&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+<p align="center">
+  Immersive system builder & SA-MP backend engineer.<br>
+  Passionate about crafting clean, immersive server experiences.
+</p>
 
 ---
 
-## 🛠 Tools & Platforms
+## 🧠 Tech Stack
 
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
----
-
-## 🎯 Current Goals
-- Learn and experiment with PAWN for SA-MP scripting
-- Practice backend development using Node.js and C++
-- Build basic systems for game servers and simple Discord bots
+<p align="center">
+  <img src="https://img.shields.io/badge/PAWN-ED7014?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ---
 
-## 🌍 My Server: Western Roleplay
+## 🎮 Reynosa Roleplay
 
-I'm currently developing and learning through my SA-MP server project, **Western Roleplay** — a server focused on immersive roleplay systems built using PAWN, C++, and Node.js.
+> A dark urban-themed SA-MP server.  
+> Focused on realism, immersion, and clean system logic.
 
-### 🔗 Official Discord Link  
-[Join Western Roleplay on Discord](https://discord.gg/dSFzCR2RU9)
+🧠 100% custom scripting  
+🎯 Structured commands and roleplay systems  
+🗂️ Modular backend design  
+🕶️ Designed for immersive environments
+
+<p align="center">
+  <img src="https://i.imgur.com/AZpQ4ve.png" width="420" alt="RP Preview Image"/>
+</p>
 
 ---
 
-## 🌐 Let's Connect
+## 🎯 Focus & Philosophy
 
-📫 You can reach me through GitHub or Discord  
-💬 Always open for learning together, coding talks, or small collabs!
+- Build with intention — not just function  
+- Let systems support the story  
+- Prioritize flow, immersion, clarity  
+- Every feature should feel alive, not scripted
+
+> _"Code should serve immersion, not limit it."_
+
+---
+
+<p align="center">
+  <img src="https://i.imgur.com/rPcm1cb.png" width="100" alt="Divider"/>
+</p>
+
+<p align="center"><i>Reynosa Roleplay — where system meets story.</i></p>
