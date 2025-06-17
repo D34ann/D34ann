@@ -34,9 +34,5 @@
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/9c/df/a8/9cdfa83ff0e1e5aeee0e566ab0c5a465.jpg" width="420" alt="Immersive Preview"/>
-</p>
-
-<p align="center">
-  <img src="https://i.pinimg.com/736x/2e/5c/40/2e5c40551108ffaeaea2355c914f64c7.jpg" width="100" alt="Divider"/>
+  <img src="https://i.pinimg.com/736x/d0/b4/a5/d0b4a55384fed6038595e4542be56eb7.jpg" width="420" alt="Immersive Preview"/>
 </p>
