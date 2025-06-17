@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/@Defann-newbies-blue"width="200"/>
+  <img src="https://i.pinimg.com/736x/93/c1/15/93c115ab4dcbe013b33701e6586baaca.jpg"width="200"/>
 </p>
 
 <h1 align="center" style="color:#00BFFF;">Defann Rizki Utomo</h1>
