@@ -38,5 +38,5 @@
 </p>
 
 <p align="center">
-  <img src="https://imgur.com/a/GYhzxIV" width="100" alt="Divider"/>
+  <img src="https://imgur.com/a/GYhzxIV" width="100"/>
 </p>
